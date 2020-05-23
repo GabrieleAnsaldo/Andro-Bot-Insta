@@ -17,3 +17,8 @@ If you need more explanation feel free to ask me questions!!
 
 Indeed, this code needs to be adapted for a different phone. You will see that I often define coordinates like x and y in order to click to a specific part of the screen. These coordinates varies from phon to phone so make sure to use the correct 
 ones for your phone. I am currently running this code with a Raspberry Pi 3 and an android Moto G5.
+
+The files:
+- heart.png is the like button icone used for image recognition
+- run.py is the file used to run the code with telegram
+- action.py contains all the actions and commands used to like, go to hashtags, close instagram, and so on
