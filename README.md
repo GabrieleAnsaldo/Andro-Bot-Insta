@@ -14,3 +14,6 @@ be interested in contributing.
 This bot works with telegram as you can send commands and notifications of your phone of how the bot is behaving.
 
 If you need more explanation feel free to ask me questions!!
+
+Indeed, this code needs to be adapted for a different phone. You will see that I often define coordinates like x and y in order to click to a specific part of the screen. These coordinates varies from phon to phone so make sure to use the correct 
+ones for your phone. I am currently running this code with a Raspberry Pi 3 and an android Moto G5.
